@@ -1,0 +1,16 @@
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.csprojAssemblyReference.cache
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.AssemblyInfoInputs.cache
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.AssemblyInfo.cs
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.exe
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.deps.json
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.runtimeconfig.json
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.runtimeconfig.dev.json
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.dll
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\ref\Gate.dll
+F:\Visual Studio\Project\PROJECTTTTT\Gate\bin\Debug\net5.0\Gate.pdb
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.dll
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\ref\Gate.dll
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.pdb
+F:\Visual Studio\Project\PROJECTTTTT\Gate\obj\Debug\net5.0\Gate.genruntimeconfig.cache
